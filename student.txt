@@ -1,0 +1,3 @@
+student name : Santosh
+student age : 22
+student cgpa : 9.200000

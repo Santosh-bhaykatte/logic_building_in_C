@@ -1,0 +1,4 @@
+// ----------- eg. 3/9 
+///         
+      if dividend , here 3 is smaller than divisor , here 9 
+      then, modulo will always be same as dividend
